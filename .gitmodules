@@ -1,0 +1,6 @@
+[submodule "apps/qtcloud-agent"]
+	path = apps/qtcloud-agent
+	url = https://github.com/quanttide/qtcloud-agent.git
+[submodule "packages/toolkit"]
+	path = packages/toolkit
+	url = https://github.com/quanttide/quanttide-agent-toolkit.git
