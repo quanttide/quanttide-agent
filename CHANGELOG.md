@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v0.1.1] - 2026-05-23
+
+### Added
+- 添加 quanttide-roadmap-of-agent-engineering 子模块
+
 ## [v0.1.0] - 2026-05-22
 
 ### Added
