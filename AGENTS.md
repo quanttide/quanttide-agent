@@ -14,6 +14,7 @@
 | report | `data/report` | 智能体工程报告 |
 | profile | `data/profile` | 智能体工程工作档案 |
 | library | `data/library` | 智能体工程配置库 |
+| context | `data/context` | 智能体工程语境 |
 
 **子模组操作规范：**
 - 拉取更新：`git submodule update --remote <path>`
