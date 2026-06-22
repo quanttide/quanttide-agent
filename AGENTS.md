@@ -12,6 +12,7 @@
 | default-example | `examples/default` | 智能体工程实验室默认示例 |
 | journal | `data/journal` | 智能体工程日志 |
 | report | `data/report` | 智能体工程报告 |
+| profile | `data/profile` | 智能体工程工作档案 |
 
 **子模组操作规范：**
 - 拉取更新：`git submodule update --remote <path>`

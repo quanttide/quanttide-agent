@@ -16,3 +16,6 @@
 [submodule "data/report"]
 	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-agent-engineering.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-agent-engineering.git
