@@ -4,9 +4,15 @@
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-agent-toolkit.git
-[submodule "docs/roadmap"]
-	path = docs/roadmap
-	url = https://github.com/quanttide/quanttide-roadmap-of-agent-engineering.git
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-agent-engineering.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-agent-engineering.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-agent-engineering.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-agent-engineering.git

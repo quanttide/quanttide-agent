@@ -8,7 +8,10 @@
 |--------|------|------|
 | qtcloud-agent | `apps/qtcloud-agent` | 智能体云平台应用 |
 | agent-toolkit | `packages/toolkit` | 智能体工程工具包 SDK |
+| roadmap | `data/roadmap` | 智能体工程蓝图 |
 | default-example | `examples/default` | 智能体工程实验室默认示例 |
+| journal | `data/journal` | 智能体工程日志 |
+| report | `data/report` | 智能体工程报告 |
 
 **子模组操作规范：**
 - 拉取更新：`git submodule update --remote <path>`
