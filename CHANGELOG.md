@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Unreleased
+
+### Added
+- 更新 `data/profile` 子模块：新增 `contexts/asset-init.jsonl`（裁剪后的资产初始化原始对话记录）
+
 ## [v0.1.1] - 2026-05-23
 
 ### Added
