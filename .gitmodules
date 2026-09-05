@@ -43,3 +43,18 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-agent-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-agent-engineering.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-agent-engineering.git
+[submodule "data/brochure"]
+	path = data/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-agent-engineering.git
+[submodule "data/history"]
+	path = data/history
+	url = https://github.com/quanttide/quanttide-history-of-agent-engineering.git
+[submodule "data/archive"]
+	path = data/archive
+	url = https://github.com/quanttide/quanttide-archive-of-agent-engineering.git
