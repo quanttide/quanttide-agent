@@ -3,6 +3,7 @@
 ## Unreleased
 
 ### Added
+- 更新 `data/library` 子模块：新增 Vicoa 介绍（开源 AI 编排器：多智能体并行编排、统一指挥台、多端协同与通知、BYO-key）
 - 更新 `data/profile` 子模块：新增 `contexts/asset-init.jsonl`（裁剪后的资产初始化原始对话记录）
 - 注册子模块：`docs/bylaw`（智能体工程章程，quanttide-bylaw-of-agent-engineering）
 - 注册子模块：`docs/handbook`（智能体工程手册，quanttide-handbook-of-agent-engineering）
