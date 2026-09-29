@@ -9,7 +9,7 @@
 | qtcloud-agent | `apps/qtcloud-agent` | 智能体云平台应用 |
 | agent-toolkit | `packages/toolkit` | 智能体工程工具包 SDK |
 | roadmap | `data/roadmap` | 智能体工程蓝图 |
-| default-example | `examples/default` | 智能体工程实验室默认示例 |
+| default-example | `examples/quanttide-agent-lab` | 智能体工程实验室默认示例 |
 | journal | `data/journal` | 智能体工程日志 |
 | report | `data/report` | 智能体工程报告 |
 | profile | `data/profile` | 智能体工程工作档案 |
