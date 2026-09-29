@@ -8,7 +8,7 @@
 |------|------|
 | `apps/qtcloud-agent` | 智能体云应用 (git submodule → qtcloud-agent) |
 | `packages/toolkit` | 智能体工具箱 (git submodule → quanttide-agent-toolkit) |
-| `examples/default` | 智能体工程实验室 (git submodule → quanttide-laboratory-of-agent-engineering) |
+| `examples/quanttide-agent-lab` | 智能体工程实验室 (git submodule → quanttide-agent-lab) |
 | `data/context` | 智能体工程语境 (git submodule → quanttide-context-of-agent-engineering) |
 | `data/journal` | 智能体工程日志 (git submodule → quanttide-journal-of-agent-engineering) |
 | `data/profile` | 智能体工程档案 (git submodule → quanttide-profile-of-agent-engineering) |

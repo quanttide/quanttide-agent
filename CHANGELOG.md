@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-agent-lab`（仓 quanttide-laboratory-of-agent-engineering → quanttide-agent-lab）
+
+
 ### Added
 - 更新 `data/profile` 子模块：Zed / Hermes 镜像本机运行时配置（MiMo 按量付费 API 与 Token Plan 分列为两个 provider，补 StepFun 接入）
 - 更新 `data/library` 子模块：新增 Vicoa 介绍（开源 AI 编排器：多智能体并行编排、统一指挥台、多端协同与通知、BYO-key）

@@ -4,9 +4,9 @@
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-agent-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-agent-engineering.git
+[submodule "examples/quanttide-agent-lab"]
+	path = examples/quanttide-agent-lab
+	url = https://github.com/quanttide/quanttide-agent-lab.git
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-agent-engineering.git
