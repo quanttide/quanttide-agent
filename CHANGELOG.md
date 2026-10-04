@@ -8,6 +8,7 @@
 
 
 ### Added
+- 更新 `data/context` 子模块：新增 `profile/skills/`（14 份技能 68 文件，源自 hermes 备份，入仓前已脱敏）
 - 更新 `data/profile` 子模块：Zed / Hermes 镜像本机运行时配置（MiMo 按量付费 API 与 Token Plan 分列为两个 provider，补 StepFun 接入）
 - 更新 `data/library` 子模块：新增 Vicoa 介绍（开源 AI 编排器：多智能体并行编排、统一指挥台、多端协同与通知、BYO-key）
 - 更新 `data/profile` 子模块：新增 `contexts/asset-init.jsonl`（裁剪后的资产初始化原始对话记录）
