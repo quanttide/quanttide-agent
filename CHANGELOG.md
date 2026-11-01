@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### 变更
+
+- `AGENTS.md` 新增认知段：核心循环 session → 找偏离细节 → 修 harness；目标为创始人原话，三级判据（假设入档 / 暂时在位 / 证伪退位），五格落位与好坏标准
+- `data/journal`、`data/profile`、`data/intention`、`data/insight`、`data/roadmap`、`data/brochure` 六仓 `AGENTS.md` 冷启动（profile、roadmap 为合并不覆盖），指针同步更新
+
+
 ## Unreleased
 
 ### 变更
