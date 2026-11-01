@@ -4,6 +4,7 @@
 
 ### 变更
 
+- 拆分 AGENTS 与 CONTRIBUTING：新增 `CONTRIBUTING.md` 收子模组操作流程与提交指针；`AGENTS.md` 删子模组表（正本在 README）与操作规范，只留领域认知与边界；`data/journal`、`data/profile`、`data/roadmap` 三子仓同步拆分，指针同步更新
 - `AGENTS.md` 新增认知段：核心循环 session → 找偏离细节 → 修 harness；目标为创始人原话，三级判据（假设入档 / 暂时在位 / 证伪退位），五格落位与好坏标准
 - `data/journal`、`data/profile`、`data/intention`、`data/insight`、`data/roadmap`、`data/brochure` 六仓 `AGENTS.md` 冷启动（profile、roadmap 为合并不覆盖），指针同步更新
 
