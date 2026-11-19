@@ -19,6 +19,7 @@
 ### Added
 - 更新 `data/library` 子模块：新增 Clean Session Curate 会话脱敏调研（目标目录归属可证、Capsule 匿名化七项、路径残留清扫与打包，可考虑接入智能体云）
 - 更新 `examples/quanttide-agent-lab` 子模块：新增 session-scrub 实验（clean-session-curate 全流程实测、七项匿名化效果、密钥漏网与二次自查）与脱敏产物数据 `data/session-scrub/`
+- 更新 `examples/quanttide-agent-lab` 子模块：新增 pi-session-scrub 实验（pi 会话接入清洗流水线、Capsule 数组内路径盲区、第二道清扫拦下 1014 处身份与部署信息）与脱敏产物数据 `data/pi-session-scrub/`
 - 更新 `data/context` 子模块：新增 `profile/STATUS.md`（14 份 SKILL 的分档清单、已知不一致与复核命令）
 - 更新 `data/context` 子模块：新增 `profile/skills/`（14 份技能 68 文件，源自 hermes 备份，入仓前已脱敏）
 - 更新 `data/profile` 子模块：Zed / Hermes 镜像本机运行时配置（MiMo 按量付费 API 与 Token Plan 分列为两个 provider，补 StepFun 接入）
