@@ -17,6 +17,7 @@
 
 
 ### Added
+- 更新 `apps/qtcloud-agent` 子模块：配置 `release-cli` CI（`cli/*` tag 触发，版本与 CHANGELOG 校验 → fmt/test/clippy 严格门禁 → 三平台二进制挂 Release → 推 crates.io），发布首个 alpha `cli/v0.1.0-alpha.1`
 - 更新 `apps/qtcloud-agent` 子模块：新增 `src/cli/docs/user-guide/session-audit.md`，写清 session audit 的用法、扫描范围、六类命中、退出码、实测数据与三个盲区
 - 更新 `apps/qtcloud-agent` 子模块：`session list` 扩到 dsh / pi / opencode / hermes 四家存储，新增 `session show`（按 id 看会话详情）与 `session audit`（只读扫描敏感串，命中即退出码 1）；`registry status` 判据收紧——未知 agent 单列「无法比较」、文件名按 stem + 扩展名族对齐、本地自定义汇总一行；补 6 个单元测试
 - 更新 `apps/qtcloud-agent` 子模块：CLI 命令面收敛——`status` → `registry status`，删 `dsh` 命令，新增 `session list`（按会话记录时的 cwd 判定归属，默认筛当前目录）；退出码立起来（0 有结果/一致、1 无匹配/有差异、2 用法错、3 数据源读不到）；注册中心默认路径修正为 `data/profile/default/agents`（CLI 与 provider 两处）
