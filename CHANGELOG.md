@@ -17,6 +17,7 @@
 
 
 ### Added
+- 更新 `apps/qtcloud-agent` 子模块：`session list` 扩到 dsh / pi / opencode / hermes 四家存储，新增 `session show`（按 id 看会话详情）与 `session audit`（只读扫描敏感串，命中即退出码 1）；`registry status` 判据收紧——未知 agent 单列「无法比较」、文件名按 stem + 扩展名族对齐、本地自定义汇总一行；补 6 个单元测试
 - 更新 `apps/qtcloud-agent` 子模块：CLI 命令面收敛——`status` → `registry status`，删 `dsh` 命令，新增 `session list`（按会话记录时的 cwd 判定归属，默认筛当前目录）；退出码立起来（0 有结果/一致、1 无匹配/有差异、2 用法错、3 数据源读不到）；注册中心默认路径修正为 `data/profile/default/agents`（CLI 与 provider 两处）
 - 更新 `data/library` 子模块：新增 Clean Session Curate 会话脱敏调研（目标目录归属可证、Capsule 匿名化七项、路径残留清扫与打包，可考虑接入智能体云）
 - 更新 `examples/quanttide-agent-lab` 子模块：新增 session-scrub 实验（clean-session-curate 全流程实测、七项匿名化效果、密钥漏网与二次自查）与脱敏产物数据 `data/session-scrub/`
